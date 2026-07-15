@@ -62,7 +62,8 @@ const SITE = {
     { src: "wish09.jpg", from: "",        cap: "Dear Nabeeha… miss and love you most!" },
     { src: "wish10.jpg", from: "",        cap: "I wish you the bestest of days, thanks for always being there 🎙️" },
     { src: "wish11.jpg", from: "Polina",  cap: "Happy birthday, baby ❤️  I love you, Polina" },
-    { src: "wish12.jpg", from: "",        cap: "Happy Birthday! 🎈 (Molly Tea & the whole crew)" }
+    { src: "wish12.jpg", from: "",        cap: "Happy Birthday! 🎈 (Molly Tea & the whole crew)" },
+    { src: "wish13.jpg", from: "",        cap: "Happy birthday, Nabeeha! 💛" }
   ],
 
   /* ---------- Gallery: the photos ----------
