@@ -42,8 +42,8 @@ const SITE = {
   // ADD MORE by copying a { ... } block. Leave 'from' blank for anonymous.
   wishes: [
     { from: "Hashim", text: "Happy birthday, Nabs. Thank you for being the best part of every ordinary day. Here's to a year that finally deserves you." },
-    { from: "", text: "Add a friend's wish here. Copy this line in data.js to add more." },
-    { from: "", text: "Another wish can go here. There's room for everyone who loves her." }
+    { from: "Polina", text: "You are why I am here today, physically and psychologically. You are my home away from home. " },
+    { from: "Kat", text: "Super grateful to have been roommates with your across three cities! Thank you for making me chai all the time and for teaching me how to hug. " }
   ],
 
   /* ---------- Home: wish CARDS (image collages from friends) ----------
