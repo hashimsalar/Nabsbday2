@@ -1,0 +1,9 @@
+Drop the 5 city photos here with these EXACT names:
+
+  london.jpg    -> lying down on the pebble beach   (board value 400)
+  hamburg.jpg   -> the four of you sitting outside   (board value 300)
+  prague.jpg    -> with the black dog on cobblestones(board value 200)
+  budapest.jpg  -> in front of the grand building    (board value 100)
+  seoul.jpg     -> in front of the whale skeleton     (board value 500)
+
+Any JPG at these names shows up automatically in the Jeopardy "Carbon Dating" category.
